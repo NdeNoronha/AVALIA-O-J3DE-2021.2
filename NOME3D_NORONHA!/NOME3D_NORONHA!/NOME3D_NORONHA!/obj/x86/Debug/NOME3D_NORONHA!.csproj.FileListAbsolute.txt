@@ -1,0 +1,6 @@
+C:\Users\gabri\OneDrive\Documentos\Faculdade\IFRJ\Jogos 3D 2021.2\NOME3D_NORONHA!\NOME3D_NORONHA!\NOME3D_NORONHA!\bin\x86\Debug\NOME3D_NORONHA!.exe
+C:\Users\gabri\OneDrive\Documentos\Faculdade\IFRJ\Jogos 3D 2021.2\NOME3D_NORONHA!\NOME3D_NORONHA!\NOME3D_NORONHA!\bin\x86\Debug\NOME3D_NORONHA!.pdb
+C:\Users\gabri\OneDrive\Documentos\Faculdade\IFRJ\Jogos 3D 2021.2\NOME3D_NORONHA!\NOME3D_NORONHA!\NOME3D_NORONHA!\obj\x86\Debug\NOME3D_NORONHA!.csprojResolveAssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\Faculdade\IFRJ\Jogos 3D 2021.2\NOME3D_NORONHA!\NOME3D_NORONHA!\NOME3D_NORONHA!\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\gabri\OneDrive\Documentos\Faculdade\IFRJ\Jogos 3D 2021.2\NOME3D_NORONHA!\NOME3D_NORONHA!\NOME3D_NORONHA!\obj\x86\Debug\NOME3D_NORONHA!.exe
+C:\Users\gabri\OneDrive\Documentos\Faculdade\IFRJ\Jogos 3D 2021.2\NOME3D_NORONHA!\NOME3D_NORONHA!\NOME3D_NORONHA!\obj\x86\Debug\NOME3D_NORONHA!.pdb
